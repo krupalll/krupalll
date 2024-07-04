@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://krupalportfolio.netlify.app/)
-
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://krupalportfolio.netlify.app/](https://krupalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krupalportfolio.netlify.app/](https://portfoliokrupal.netlify.app/)
 
-- 📫 How to reach me **kpdeadshot@gmail.com**
+- 📫 How to reach me **krupalpatel596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
